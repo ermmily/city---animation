@@ -1,0 +1,9 @@
+body {
+  text-align: center;
+}
+#myCanvas {
+  border: 2px solid black;
+}
+#cloudEl {
+  display: none;
+}
